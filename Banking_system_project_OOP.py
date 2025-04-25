@@ -1,4 +1,3 @@
-
 class Person:
     def __init__(self, name, address, phone):
         self.name = name
@@ -11,13 +10,6 @@ class Person:
             'Address': self.address,
             'Phone': self.phone
         }
-
-''''
-account class creation
--account_number,balance,owner
--method: deposit(amount), withdraw(amount), get_balance(), show_account_details()
-'''
-
 from abc import ABC, abstractmethod
 
 class Account(ABC):
