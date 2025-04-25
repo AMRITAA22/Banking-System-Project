@@ -1,9 +1,4 @@
 
-''''
-person class creation
--name,address,phone
--method: __init__, get_deatils()
-'''
 class Person:
     def __init__(self, name, address, phone):
         self.name = name
