@@ -1,12 +1,3 @@
-'''
-design banking system using oop concept
-account creation
-deposit
-withdrawal
-transaction history functionalities
--abstraction,encapsulation,inheritance,polymorphism
-'''
-
 
 ''''
 person class creation
