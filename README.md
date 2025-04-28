@@ -12,7 +12,6 @@ A simple yet powerful command-line based banking system developed in Python. Thi
 - [Sample Output](#-sample-output)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
-- [License](#-license)
 
 ## 🚀 Features
 
